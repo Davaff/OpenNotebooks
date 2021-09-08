@@ -1,6 +1,6 @@
 # ProNotebooks
 
-ProNotebopoks is an open source note taking app for iOS devices.
+ProNotebooks is an open source note taking app for iOS devices.
 
 ## App Store description.
 
