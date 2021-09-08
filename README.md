@@ -64,7 +64,7 @@ Download ProNotebooks for free on the App Store today.
 ### How can I create a new notebook?
 Tap on the plus symbol in the top right corner, you will then be able to choose a title and a cover for your notebook.
 
-### How can i cope, paste or delete a notebook?
+### How can i copy, paste or delete a notebook?
 Make a long tap on the notebook until you feel a vibration, then tap on the notebook again and you will see a menu appear.
 
 ### How does the notebook search work?
