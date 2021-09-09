@@ -11,7 +11,7 @@ Contains an _.svg_ file of a squared sheet used when a user adds a new page to a
 
 ### Tutorials
 Contains all images used for in-app tutorials. \
-See [here](Graphic%20Resources/Tutorials/TUTORIALS.md) for more information.
+See [here](Tutorials/TUTORIALS.md) for more information.
 
 
 
