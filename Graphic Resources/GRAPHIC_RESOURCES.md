@@ -10,7 +10,8 @@ Contains an _.svg_ file of a lined sheet used when a user adds a new page to a n
 Contains an _.svg_ file of a squared sheet used when a user adds a new page to a notebook.
 
 ### Tutorials
-Contains all images used for in-app tutorials. \See [here](TUTORIALS.md) for more information.
+Contains all images used for in-app tutorials. \
+See [here](TUTORIALS.md) for more information.
 
 
 
