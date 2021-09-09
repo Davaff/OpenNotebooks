@@ -38,13 +38,13 @@ Shows the different page types that can be added.
 ## File Names
 File names contain only lowercase letters and numbers, words are separated by underscores.
 File names are constructed as follows:
-<_screenshot scenario_>\_<_device type_>\_<_screen size in inches_>.<_file extension_> \n
+<_screenshot scenario_>\_<_device type_>\_<_screen size in inches_>.<_file extension_> \
 e.g. _search_iphone_6.5.png_.
 
 ## Contributions 
-When contributing keep in mind that the folders ar interdependent as follows: \n
+When contributing keep in mind that the folders ar interdependent as follows: \
 **_screenshots_ -> _psds_ -> _pngs_**
-This means that a change in the _screenshots_ directory **must** be reflected by a change in the _psds_ and _pngs_ directory because the screenshot was used in the _.psd_ file which was used to create the final _.png_ file. \n
+This means that a change in the _screenshots_ directory **must** be reflected by a change in the _psds_ and _pngs_ directory because the screenshot was used in the _.psd_ file which was used to create the final _.png_ file. \
 When contributing for a new app icon keep in mind all required sizes needed for app store publishing and provide a _.json_ file to map the files to the correct size.
 
 
