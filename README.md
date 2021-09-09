@@ -20,9 +20,9 @@ For contributions on the app's marketing resources see [here](Marketing%20Resour
 ### Code
 For contributions on the app's code see [here](Code/CODE.md).
 ### Description
-Contributions to the app´s [description](AppDescription.md) are always possible.
+Contributions to the app's [description](AppDescription.md) are always possible.
 ### FAQs
-Contributions to the app´s [FAQs](FAQs.md) are always possible.
+Contributions to the app's [FAQs](FAQs.md) are always possible.
 
 ## Info
 For info contact me on my email adress:
