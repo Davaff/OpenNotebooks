@@ -18,8 +18,10 @@ See [here](PrivacyPolicy.md).
 ### Marketing resources
 For contributions on the app's marketing resources see [here](Marketing%20Resources/MARKETING_RESOURCES.md).
 ### Code
-Contributing will be possible as soon as the files will be reviewed.
-The files will be gradually published in this repository.
+For contributions on the app's code see [here](Code/CODE.md).
+### Description and FAQs
+Contributions to the app´s description and FAQs are always possible.\
+See [description](AppDescription.md) and [FAQs](FAQs.md).
 
 ## Info
 For info contact me on my email adress:
