@@ -4,7 +4,7 @@ OpenNotebooks is an open source note taking app for iOS devices.
 
 ## Code
 
-See [here](Code/CODE.md).
+See [here](OpenNotebooks/CODE.md).
 
 ## App Store description
 
@@ -22,7 +22,7 @@ See [here](PrivacyPolicy.md).
 ### Marketing resources
 For contributions on the app's marketing resources see [here](Marketing%20Resources/MARKETING_RESOURCES.md).
 ### Code
-For contributions on the app's code see [here](Code/CODE.md).
+For contributions on the app's code see [here](OpenNotebooks/CODE.md).
 ### Description
 Contributions to the app's [description](AppDescription.md) are always possible.
 ### FAQs
