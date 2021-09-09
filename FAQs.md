@@ -25,31 +25,31 @@ No, simply tap on the double arrow on the right and the current title will be us
 ### How do I choose a custom line or square size/color?
 When adding a lined or squared page use the slider to change the size and tap on the page preview to change the line color.
 
-### How do i add an image to a page?
+### How do I add an image to a page?
 To add an image to a page simply tap on the image button (second from the right) at the bottom on the screen.
 
-### How do i add a text view to a page?
+### How do I add a text view to a page?
 To add a text view to a page simply tap on the text button (third from the right) at the bottom on the screen.
 
-### How do i draw on a page?
+### How do I draw on a page?
 To draw on a page simply tap on the pencil button (second from the left) at the bottom on the screen.
 
-### How do i export a notebook or a page?
+### How do I export a notebook or a page?
 To draw export the whole notebook or only some selected pages tap on the export button in the bottom left corner of the screen.
 
 ### How do I edit the notebook's title or cover?
 To edit the notebook's title or cover simply tap on the top right button.
 
-### How do i see all the pages?
+### How do I see all the pages?
 To see all the notebook's pages simply tap on the second button from the right at the top of the screen.
 
-### How do i delete, rename, copy or paste one or more pages?
+### How do I delete, rename, copy or paste one or more pages?
 To delete, rename or copy one or more pages simply long tap on any page until you feel a vibration, then select the pages by tapping on them, then long tap on any selected page to see a menu appear.
 
-### How do i move a page?
+### How do I move a page?
 To move a page simply long tap on any page until you feel a vibration, then long tap on the page you want to move and drag it to the desired position.
 
-### How do i close a notebook?
+### How do I close a notebook?
 To close a notebook simply tap on the backwards arrow (top left button).
 
 

@@ -1,4 +1,4 @@
-ProNotebooks is a free note taking app for all iOS devices.
+OpenNotebooks is a free note taking app for all iOS devices.
 
 The app features a wide range of capabilities.
 
