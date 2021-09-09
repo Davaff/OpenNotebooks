@@ -19,9 +19,10 @@ See [here](PrivacyPolicy.md).
 For contributions on the app's marketing resources see [here](Marketing%20Resources/MARKETING_RESOURCES.md).
 ### Code
 For contributions on the app's code see [here](Code/CODE.md).
-### Description and FAQs
-Contributions to the app´s description and FAQs are always possible.\
-See [description](AppDescription.md) and [FAQs](FAQs.md).
+### Description
+Contributions to the app´s [description](AppDescription.md) are always possible.
+### FAQs
+Contributions to the app´s [FAQs](FAQs.md) are always possible.
 
 ## Info
 For info contact me on my email adress:
