@@ -1,5 +1,5 @@
 # Marketing Resources 
-This file contains explanation for the app's marketinf resources used on the App Store.
+This file contains explanation for the app's marketing resources used on the App Store.
 The resources are split in four different folders.
 
 ## Folders 
@@ -14,7 +14,7 @@ This folder contains the app's screenshots used on the App Store.
 This folder contains the _.psd_ files used to create the files contained in the _Pngs_ folder.
 
 ### Screenshots
-This folder contains the actual in app screenshots taken on an iOS device or simulator.
+This folder contains the actual in-app screenshots taken on an iOS device or simulator.
 
 ## Screenshot scenarios
 Following scenarios are represented in the screenshots. 
