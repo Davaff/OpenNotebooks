@@ -15,7 +15,10 @@ See [here](FAQs.md).
 See [here](PrivacyPolicy.md).
 
 ## Contributing
-Contributing will be possible as soon as all files will be reviewed.
+### Marketing resources
+For contributions on the app's marketing resources see [here](MARKETING_RESOURCES.md).
+### Code
+Contributing will be possible as soon as the files will be reviewed.
 The files will be gradually published in this repository.
 
 ## Info
