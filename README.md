@@ -16,7 +16,7 @@ See [here](PrivacyPolicy.md).
 
 ## Contributing
 ### Marketing resources
-For contributions on the app's marketing resources see [here](Marketing Resources/MARKETING_RESOURCES.md).
+For contributions on the app's marketing resources see [here](Marketing Resources\MARKETING_RESOURCES.md).
 ### Code
 Contributing will be possible as soon as the files will be reviewed.
 The files will be gradually published in this repository.
