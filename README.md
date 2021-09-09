@@ -2,7 +2,7 @@
 
 OpenNotebooks is an open source note taking app for iOS devices.
 
-## App Store description.
+## App Store description
 
 See [here](AppDescription.md).
 
