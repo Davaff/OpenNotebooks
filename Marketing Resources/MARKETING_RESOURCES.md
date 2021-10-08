@@ -4,13 +4,13 @@ The resources are split in four different folders.
 
 ## Folders 
 
-### [Pngs](Pngs)
+### <span style="color:blue">[Pngs](Pngs)</span>.
 This folder contains the app's screenshots used on the App Store.
 
-### Psds
+### [Psds](Psds)
 This folder contains the _.psd_ files used to create the files contained in the _Pngs_ folder.
 
-### Screenshots
+### [Screenshots](Screenshots)
 This folder contains the actual in-app screenshots taken on an iOS device or simulator.
 
 ## Screenshot scenarios
