@@ -41,7 +41,7 @@ e.g. _search_iphone_6.5.png_.
 ## Contributions 
 When contributing keep in mind that the folders ar interdependent as follows: 
 **_screenshots_ -> _psds_ -> _pngs_**.\
-This means that a change in the _screenshots_ directory **must** be reflected by a change in the _psds_ and _pngs_ directory because the screenshot was used in the _.psd_ file which was used to create the final _.png_ file. \
+This means that a change in the _screenshots_ directory **must** be reflected by a change in the _psds_ and _pngs_ directory because the screenshot was used in the _.psd_ file which was used to create the final _.png_ file. 
 
 
 
