@@ -4,7 +4,7 @@ The resources are split in four different folders.
 
 ## Folders 
 
-### <span style="color:orange">[Pngs]</span>
+### [Pngs](Pngs)
 This folder contains the app's screenshots used on the App Store.
 
 ### [Psds](Psds)
